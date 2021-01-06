@@ -1,2 +1,2 @@
 # FPGA
-VHDL/Verilog projects for FPGA (Field Programmable Gate Array).
+VHDL/Verilog project for FPGA (Field Programmable Gate Array): Game emulation by FPGA and VGA interface.
